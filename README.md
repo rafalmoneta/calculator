@@ -13,7 +13,7 @@
 Basic calculator written in JavaScript for practice.
 
 ## Screenshot
-![Example screenshot](https://imgur.com/a/6tkikvK)
+![Example screenshot](https://i.imgur.com/cYzd7Fg.png)
 
 ## Features
 To-do list:
@@ -30,4 +30,4 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-Design [[link]](https://dribbble.com/shots/5184056-Daily-UI-Challenge)
+Design [[link]](https://dribbble.com/shots/5184056-Daily-UI-Challenge)git
