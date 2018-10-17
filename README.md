@@ -1,6 +1,10 @@
 # Project Name
 > Basic Calculator
 
+## Live Version
+
+Try it! [[link]](http://rafalmoneta.com/calculator.html)
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshot](#screenshot)
@@ -21,7 +25,6 @@ To-do list:
 * display the current activity
 * plus/minus
 * fix delete button
-* live version (soon)
 
 ## Setup
 * clone the repo and open index.html in your browser
@@ -30,4 +33,4 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-Design [[link]](https://dribbble.com/shots/5184056-Daily-UI-Challenge)git
+Design [[link]](https://dribbble.com/shots/5184056-Daily-UI-Challenge)
