@@ -3,7 +3,7 @@
 
 ## Live Version
 
-Try it! [[link]](http://rafalmoneta.com/calculator.html)
+Try it! [[link]](http://rafalmoneta.com/calculator/)
 
 ## Table of contents
 * [General info](#general-info)
